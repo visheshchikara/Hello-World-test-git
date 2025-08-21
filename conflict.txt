@@ -1,1 +1,2 @@
 line A
+line B
